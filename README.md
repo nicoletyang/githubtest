@@ -6,3 +6,15 @@ https://www.atlassian.com/git/tutorials/comparing-workflows
 
 ### Clone the repository
 git clone <repository-url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+### VScode
+  https://code.visualstudio.com/docs/remote/ssh#:~:text=Start%20by%20selecting%20Remote%2DSSH,Explorer%20in%20the%20Activity%20Bar.&text=Finally%2C%20you%27ll%20be%20asked,a%20config%20file%20to%20use.
