@@ -5,7 +5,7 @@ https://www.atlassian.com/git/tutorials/comparing-workflows
 https://youtu.be/iv8rSLsi1xo
 
 ### Clone the repository
-git clone <repository-url>
+git clone [repository-url]
   
 ### Create a new branch
 git checkout -b <branch-name>
