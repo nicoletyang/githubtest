@@ -8,7 +8,7 @@ https://youtu.be/iv8rSLsi1xo
 git clone [repository-url]
   
 ### Create a new branch
-git checkout -b <branch-name>
+git checkout -b [branch-name]
   
 ### Update your branch
 git pull origin main
