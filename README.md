@@ -13,7 +13,8 @@ git checkout -b [branch-name]
 ### Update your branch
 git pull origin main
   
-  ![image-2](https://github.com/nicoletyang/githubtest/assets/53498792/fbce3d70-1fde-4df5-9a0c-c1e4c1dbf19e)
+![image-2](https://github.com/nicoletyang/githubtest/assets/53498792/c4d02095-fc53-4acc-a634-16e3c380da64)
+
 
 ### Commit local changes
 
